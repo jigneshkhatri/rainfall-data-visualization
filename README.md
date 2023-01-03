@@ -2,6 +2,8 @@ Visualize the rainfall data on the map in grid format on any area around the wor
 - Visualize any other data related to location on the map in grid format
 - To divide the area on the map in grid with required single cell size (area)
 
+These scripts are not considering the political boundaries of the districts/states/countries, but they just divide the area into rectangular grid.
+
 # Environment
 - Python: v3.9
 
@@ -28,3 +30,6 @@ Visualize the rainfall data on the map in grid format on any area around the wor
 # Example:
 Rainfall data for July 2022 on Gujarat
 ![image](https://user-images.githubusercontent.com/8259729/210401086-77dc8d5c-c1d8-40c8-9c47-16c667df6a6b.png)
+
+## TODO:
+- Add the functionality to determine the box in the grid for any lat-lon passed to the script. This can help in dividing the larger area into the grid, and then determine the location of anything within that grid with lat-lon
