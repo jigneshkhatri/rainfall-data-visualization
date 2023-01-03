@@ -24,3 +24,7 @@ Visualize the rainfall data on the map in grid format on any area around the wor
 - Run `generate_datasets.py` script with the params (check the script source for exact params and their details)
     - This will generate the rainfall datasets under `resources/datasets` directory
 - Once the datasets are generated, run `app.py` to visualize the data
+
+# Example:
+Rainfall data for July 2022 on Gujarat
+![image](https://user-images.githubusercontent.com/8259729/210401086-77dc8d5c-c1d8-40c8-9c47-16c667df6a6b.png)
