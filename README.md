@@ -1,4 +1,6 @@
-Visualize the rainfall data on the map in grid format on any area around the world. Apart from rainfall data visualization, these scripts can be used for following purposes:
+Visualize the rainfall data on the map in grid format on any area around the world. 
+
+Apart from rainfall data visualization, these scripts can be used for following purposes (with minor modifications):
 - Visualize any other data related to location on the map in grid format
 - To divide the area on the map in grid with required single cell size (area)
 
